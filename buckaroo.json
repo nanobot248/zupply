@@ -1,4 +1,4 @@
 {
   "name": "zupply",
-  "target": ":zupply"
+  "target": "zupply"
 }
